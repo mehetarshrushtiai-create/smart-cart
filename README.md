@@ -72,7 +72,7 @@ kneed — automatic elbow detection
 
 Getting Started
 bash# Clone the repository
-git clone https://github.com/your-username/smartcart.git
+git clone https:https://github.com/mehetarshrushtiai-create/smart-cart.git
 cd smartcart
 
 # Install dependencies
